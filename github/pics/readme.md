@@ -1,1 +1,1 @@
-Pictures used in this github
+Pictures used in this repo on Github
