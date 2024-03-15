@@ -1,2 +1,3 @@
-# roversa2
+# Roversa
+
 Latest repo for the Roversa robot platform
