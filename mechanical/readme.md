@@ -1,6 +1,6 @@
 ### This folder contains all of the parts for the mechanical components
 
-The `Chassis` folder contains all of the individual DXF files for Roversa
+The `chassis` folder contains all of the individual DXF files for Roversa
 
 `batteryHolder-SF13851.3mf` fits the [Sparkfun 13851 LiPo 400mAh battery](https://www.sparkfun.com/products/13851), holes may be drilled out with a 2.05mm or 3/64" drill bit for the M2.5x6mm screw
 
