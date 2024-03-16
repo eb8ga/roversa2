@@ -1,8 +1,8 @@
 ### This folder contains all of the parts to create the chassis of Roversa for laser cutting
 
-`bottom.dxf` is the bottom piece in the assembly
+`bottom.dxf` is the bottom piece of the chassis
 
-`shelf.dxf` is the mid plane in the assembly
+`shelf.dxf` is the mid plane of the chassis
 
 `wheelBase.dxf` is the part that holds the ball bearing assembly to the chassis
 
