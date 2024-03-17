@@ -1,6 +1,6 @@
 ### This folder contains all of the parts to create the chassis of Roversa for laser cutting
 
-**All parts in this folder must be cut out of 3mm stock material!**
+All parts in this folder must be cut out of **3mm stock material!** The plywood used in the main picture was sold as 3mm/1/8" but measures average 2.88mm thick and was a tight fit.
 
 `bottom.dxf` is the bottom piece of the chassis
 
