@@ -1,5 +1,7 @@
 ### This folder contains all of the parts to create the chassis of Roversa for laser cutting
 
+**All parts in this folder must be cut out of 3mm stock material!**
+
 `bottom.dxf` is the bottom piece of the chassis
 
 `shelf.dxf` is the mid plane of the chassis
