@@ -2,7 +2,7 @@
 
 DXF 2D files for laser cutting and STEP 3D files for any CAD program etc
 
-All parts in this folder must be cut out of **3mm stock material!** The plywood used in the main picture was sold as 3mm/1/8" but measured an average of 2.88mm thick and was a tight fit.
+All parts in this folder must be cut out of **3mm stock material!** The plywood used in the main picture was sold as 3mm/1/8" but measured an average of 2.88mm thick and was a tight fit. The accuracy of your laser and kerf will also be a factor when adjusting for tolerances.
 
 `bottom` is the bottom piece of the chassis
 
