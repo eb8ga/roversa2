@@ -6,4 +6,4 @@ Board Overview:
 
 Pinout Diagram:
 
-![Pinout] (https://github.com/eb8ga/roversa2/blob/main/github/pics/roversaMicrobitPinout-White%20(scaled).png?raw=true)
+![Pinout](https://github.com/eb8ga/roversa2/blob/main/github/pics/roversaMicrobitPinout-White%20(scaled).png?raw=true)
