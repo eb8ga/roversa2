@@ -1,6 +1,6 @@
 ### This folder contains all of the parts for the mechanical components
 
-The `chassis` folder contains all of the individual DXF files for Roversa
+The `chassis` folder contains all of the individual DXF files for Roversa as well as a template to laser cut 4 robots out of 300x600mm 3mm stock.
 
 The `buttons` folder contains various buttons that can be added to the 12mm push buttons on the PCB
 
