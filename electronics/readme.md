@@ -2,7 +2,7 @@
 
 Board Overview:
 
-![Board Overview](https://github.com/eb8ga/roversa2/blob/main/github/pics/boardOverview.png?raw=true)
+Updated version coming soon.
 
 Pinout Diagram:
 
