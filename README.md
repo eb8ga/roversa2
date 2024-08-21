@@ -20,5 +20,3 @@ The updated BOM for external parts (not electronic components on PCB) can be fou
 |micro:bit                |v2                                                |17287           |1       |$16.50    |$16.50     |[https://www.sparkfun.com/products/17287](https://www.sparkfun.com/products/17287)|
 |                         |                                                  |                |        |          |           |                                                                                  |
 |                         |                                                  |                |        |TOTAL     |$35.44     |                                                                                  |
-
-*Note: You can use medium CA glue to fasten the servo horns and the ball bearing mount if you don't want to deal with screws. The servos also come with screws, but are 8mm length and will poke through the chassis.*
