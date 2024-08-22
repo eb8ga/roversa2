@@ -9,11 +9,9 @@ You can use the hex files as a stand-alone version in the `programming` folder o
 
 | **Item**                | **Component**                                       | **Quantity** |
 |-------------------------|-----------------------------------------------------|--------------|
-| Servo Horn Screws       | M1.7x4mm                                            | 4            |
+| Servo Horn Screws       | M1.7x4mm, Pan Head,Flat Point                       | 4            |
 | Continuous Servo Motors | FS90R                                               | 2            |
 | LiPo Battery            | 400 mAh                                             | 1            |
 | Ball Bearing            | 12mm, G100 Stainless Steel                          | 1            |
 | Tires for Wheels        | Nitrile Rubber O-Rings, 35mm OD 30mm ID 2.5mm Width | 2            |
 | micro:bit               | v2                                                  | 1            |
-|                         |                                                     |              |
-|                         |                                                     |              |
