@@ -6,13 +6,13 @@ Updated version coming soon.
 
 Pinout Diagram:
 
-![Pinout](https://github.com/eb8ga/roversa2/blob/main/github/pics/roversaMicrobitPinout-White%20(scaled).png?raw=true)
+![Pinout](https://github.com/eb8ga/roversa2/blob/main/github/pics/roversaMicrobitPinout-White-scaled.png?raw=true)
 
 [Full-size image](https://raw.githubusercontent.com/eb8ga/roversa2/main/github/pics/roversaMicrobitPinout-White.png)
 
 Components:
 
-| **Comment       ** | ** Designator       **      | ** Footprint       ** |
+| **Comment**        | **Designator**              | **Footprint**         |
 |--------------------|-----------------------------|-----------------------|
 | LSM6DS3TR-C        | U4                          | LGA-12(2x2)           |
 | LIS3MDLTR          | U3                          | LGA-14(2.5x3)         |
