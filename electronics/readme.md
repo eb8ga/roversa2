@@ -2,7 +2,7 @@
 
 Board Overview:
 
-![FrontPCB](https://github.com/eb8ga/roversa2/blob/main/github/pics/roversaPCBv2.1.2Front.png?raw=true)
+![FrontPCB](https://github.com/eb8ga/roversa2/blob/main/github/pics/PCBFrontOverview.png?raw=true)
 
 Pinout Diagram:
 
