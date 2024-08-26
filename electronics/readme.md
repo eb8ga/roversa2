@@ -1,8 +1,11 @@
 ### This folder contains all of the files for the electronics
 
-Board Overview:
+**Board Overview:**
+Front             |  Rear
+:-------------------------:|:-------------------------:
+![FrontPCB](https://github.com/eb8ga/roversa2/blob/main/github/pics/PCBFrontOverview.png?raw=true) | ![RearPCB](https://github.com/eb8ga/roversa2/blob/main/github/pics/PCBRearOverview.png?raw=true)
 
-![FrontPCB](https://github.com/eb8ga/roversa2/blob/main/github/pics/PCBFrontOverview.png?raw=true)
+
 
 Pinout Diagram:
 
